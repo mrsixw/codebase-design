@@ -1,6 +1,6 @@
 # Codebase Design Skill
 
-Improve module boundaries, interfaces, seams, locality, and testability without unnecessary architecture.
+Design module boundaries, interfaces, seams, locality, and testability without unnecessary architecture or code changes.
 
 ## Attribution
 
