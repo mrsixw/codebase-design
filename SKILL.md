@@ -1,6 +1,6 @@
 ---
 name: codebase-design
-description: Design or improve module interfaces, seams, and testability using deep-module principles and a small public surface.
+description: Design the interface, seams, and testability of one named module or responsibility using deep-module principles, producing a recommendation without changing code. Use when the user asks to design or evaluate a specific module boundary, interface, or seam. Not for repository-wide architecture surveys (use improve-codebase-architecture) or for implementing the change.
 ---
 
 # Codebase design

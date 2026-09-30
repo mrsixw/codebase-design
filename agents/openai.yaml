@@ -2,3 +2,5 @@ interface:
   display_name: "Codebase Design"
   short_description: "Design deep, testable modules"
   default_prompt: "Use $codebase-design to evaluate this module boundary or interface."
+policy:
+  allow_implicit_invocation: false
